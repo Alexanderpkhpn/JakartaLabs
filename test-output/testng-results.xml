@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12982" started-at="2022-06-04T01:08:06 ICT" finished-at="2022-06-04T01:08:19 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12982" started-at="2022-06-04T01:08:06 ICT" finished-at="2022-06-04T01:08:19 ICT">
+      <class name="qaautomation.may2022.CommonTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qaautomation.may2022.CommonTest@32eff876]" name="setUp" is-config="true" duration-ms="6717" started-at="2022-06-04T01:08:06 ICT" finished-at="2022-06-04T01:08:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSwitching()[pri:0, instance:qaautomation.may2022.CommonTest@32eff876]" name="testSwitching" duration-ms="5345" started-at="2022-06-04T01:08:13 ICT" finished-at="2022-06-04T01:08:18 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitching -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaautomation.may2022.CommonTest@32eff876]" name="tearDown" is-config="true" duration-ms="597" started-at="2022-06-04T01:08:18 ICT" finished-at="2022-06-04T01:08:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaautomation.may2022.CommonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
